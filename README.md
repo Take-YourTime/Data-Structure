@@ -243,4 +243,4 @@ File size ratio:          516%    (> 100% means the compressed file is larger th
 
 ---
 
-*Student: 許育菖 (B113040045)*
+*2023.09 ~ 2024.01*
