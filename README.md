@@ -3,7 +3,7 @@
 資料結構課程作業（C++）  
 Data Structure course homework assignments written in C++.
 
-> **Copyright Notice**: The assignment specification PDF files (`ds_ex*.pdf`, `ReadMe.pdf`) in each folder are course materials whose copyright belongs to the course professor. They are included solely for reference.
+> **Copyright Notice**: The assignment specification PDF files (`ds_ex*.pdf`) in each folder are course materials whose copyright belongs to the course professor. They are included solely for reference.
 
 ---
 
