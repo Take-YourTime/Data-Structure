@@ -220,7 +220,7 @@ Results (sorted arrays) are written to `outputA.txt` – `outputE.txt`.
 
 **Files**
 - `ds_ex8.pdf` — assignment specification *(copyright: course professor)*
-- `ReadMe.pdf` — detailed usage documentation *(copyright: course professor)*
+- `ReadMe.pdf` — detailed usage documentation
 - `hw8-b113040045.cpp` — solution source code (requires C++17)
 - `hw8-b113040045.out` — sample terminal session
 - `a.txt`, `b.txt`, `c.txt`, `d.jpg` — sample input files
